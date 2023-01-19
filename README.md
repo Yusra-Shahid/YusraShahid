@@ -8,9 +8,9 @@ A brief description on how to connect your static website hosted on Aws s3 with 
 ## Lab Overview
 
 
-![alt text](https://github.com/saqib59/portfolio_aws/blob/main/assets/img/local_to_aws.png?raw=true)
+![alt text](https://github.com/Yusra-Shahid/YusraShahid/blob/main/public_html/assets/imgs/codepipeline.png?raw=true)
 
-![alt text](https://github.com/saqib59/portfolio_aws/blob/main/assets/img/lamda_apigateway.png?raw=true)
+![alt text](https://github.com/Yusra-Shahid/YusraShahid/blob/main/public_html/assets/imgs/lamda.JPG?raw=true)
 
 
 ## Code Pipeline and S3 Bucket
